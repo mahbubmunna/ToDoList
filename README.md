@@ -1,3 +1,3 @@
-# ToDoListMVVM
+# ToDoList
 Firestroe based to do list app
-MVVM (AAC) applied
+(AAC) applied
